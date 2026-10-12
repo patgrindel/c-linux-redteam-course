@@ -1,0 +1,30 @@
+# Compiled binaries / objects
+*.o
+*.obj
+*.a
+*.so
+*.out
+a.out
+
+# Common built example/exercise names (no extension on Linux)
+# Keep sources; ignore anything built. Students build locally.
+**/build/
+*.exe
+
+# Debug / tooling
+*.dSYM/
+vgcore.*
+core
+core.*
+*.log
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Capstone sample output
+*.report.txt
