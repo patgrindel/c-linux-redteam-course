@@ -1,0 +1,14 @@
+# This is a Linux course. Keep LF line endings in the repo for all text/source,
+# so files compile and shell scripts run correctly on Linux regardless of the
+# OS they were authored on.
+* text=auto eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.sh text eol=lf
+Makefile text eol=lf
+*.md text eol=lf
+
+# Binary files git should not touch
+*.png binary
+*.jpg binary
+*.pdf binary
