@@ -57,6 +57,13 @@ not a rule.
 
 See [COURSE_OUTLINE.md](COURSE_OUTLINE.md) for the detailed syllabus.
 
+### Companion references
+
+Keep these open while you work:
+
+- [CHEATSHEET.md](CHEATSHEET.md) — `gcc` / `gdb` / `valgrind` commands, format specifiers, the memory model, `malloc` discipline, key `man` pages.
+- [GLOSSARY.md](GLOSSARY.md) — plain-language definitions of every term the course uses.
+
 ---
 
 ## Getting started
